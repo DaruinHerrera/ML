@@ -6,7 +6,6 @@ Machine Learning - Initial
 - Categorical
 - Ordinal
 
-```
 Numerical data are numbers, and can be split into two numerical categories:
 Discrete Data
 - counted data that are limited to integers. Example: The number of cars passing by.
@@ -14,13 +13,13 @@ Continuous Data
 - measured data that can be any number. Example: The price of an item, or the size of an item
 Categorical data are values that cannot be measured up against each other. Example: a color value, or any yes/no values.
 Ordinal data are like categorical data, but can be measured up against each other. Example: school grades where A is better than B and so on.
-```
+
 
 ## Mean, Median, Mode
 Mean - The average value
 Median - The mid point value
 Mode - The most common value
-```
+
 Mean.
 The mean value is the average value.
 
@@ -29,7 +28,7 @@ The median value is the value in the middle, after you have sorted all the value
 
 Mode.
 The Mode value is the value that appears the most number of times.
-```
+
 
 ## Standard Deviation
 Standard deviation is a number that describes how spread out the values are.
@@ -60,3 +59,18 @@ In probability theory this kind of data distribution is known as the normal data
 
 ## Scatter Plot
 A scatter plot is a diagram where each value in the data set is represented by a dot
+
+## Regression
+The term regression is used when you try to find the relationship between variables.
+In Machine Learning, and in statistical modeling, that relationship is used to predict the outcome of future events.
+
+- R for Relationship
+It is important to know how the relationship between the values of the x-axis and the values of the y-axis is, if there are no relationship the linear regression can not be used to predict anything.
+
+This relationship - the coefficient of correlation - is called r.
+
+The r value ranges from -1 to 1, where 0 means no relationship, and 1 (and -1) means 100% related.
+
+Python and the Scipy module will compute this value for you, all you have to do is feed it with the x and y values.
+
+Libreri [scipy](https://github.com/scipy/scipy)
