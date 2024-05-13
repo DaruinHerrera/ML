@@ -1,6 +1,6 @@
 # ML
 Machine Learning - Initial
-[text](https://www.w3schools.com/python/python_ml_standard_deviation.asp)
+[w3schools](https://www.w3schools.com/python/python_ml_standard_deviation.asp)
 ## Data Types
 - Numerical
 - Categorical
@@ -52,5 +52,11 @@ Percentiles are used in statistics to give you a number that describes the value
 ## Data Distribution
 Generation of synthetic data for testing
 - Histogram
-[text](https://www.w3schools.com/python/matplotlib_intro.asp)
-[text](https://github.com/matplotlib/matplotlib)
+[w3schools](https://www.w3schools.com/python/matplotlib_intro.asp)
+[github](https://github.com/matplotlib/matplotlib)
+
+## Normal Data Distribution
+In probability theory this kind of data distribution is known as the normal data distribution, or the Gaussian data distribution, after the mathematician Carl Friedrich Gauss who came up with the formula of this data distribution.
+
+## Scatter Plot
+A scatter plot is a diagram where each value in the data set is represented by a dot
